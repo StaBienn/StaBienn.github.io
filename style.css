@@ -6,7 +6,7 @@ html{
 body {
   height:100%;
   background-color:#83a87f;
-  color:rgb(240, 240, 240);
+  color:rgb(51, 145, 51);
   font-family:Helvetica;
   font-size:calc(6px + 1vw);
   margin:0;
@@ -21,7 +21,7 @@ main{
   margin:0px;
   margin:0px;
   background-color:#363636;
-  background-image:url("graphics/background.jpg");
+ background-image:url("graphics/background.jpg");
   background-attachment:scroll;
   background-repeat:repeat-y;
   background-position:center center;
@@ -107,7 +107,7 @@ ol{
   padding:0px 2vw 0px 2vw;
 }
 ::selection {
-  background:#68947988;
+  background:#004b1d88;
 }
 footer{
   background-color:#83a87f;
@@ -127,7 +127,7 @@ footer{
 }
 #main-div {
     padding: 0px 1vw 0px 2vw;
-    color: rgb(55, 161, 101);
+    color: rgb(255, 255, 255);
 }
 
 p{
