@@ -21,7 +21,7 @@ main{
   margin:0px;
   margin:0px;
   background-color:#363636;
- background-image:url("graphics/background.jpg");
+  /*background-image:url("graphics/background.jpg"); */
   background-attachment:scroll;
   background-repeat:repeat-y;
   background-position:center center;
