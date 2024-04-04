@@ -1,2 +1,1 @@
-# StaBienn.github.io-
-Life
+# Life, The Competition
